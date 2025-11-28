@@ -1,0 +1,12 @@
+Key Performance Indicators (KPIs)
+In this project, KPIs were designed to measure the overall performance and profitability of the furniture sales business. These metrics help assess revenue trends, operational efficiency, and customer demand across various dimensions such as product category, store type, and region.
+KPIs used in this project:
+1.	Total Sales: Represents the total quantity of furniture items sold during the period.
+2.	Total Revenue: The total income generated from all sales transactions, showing overall business performance.
+3.	Total Profit: The net earnings after deducting costs, indicating the company’s financial success.
+4.	Profit Margin by Location: Shows how profit varies across rural, suburban, and urban areas to identify high-performing markets.
+5.	Revenue by Category: Highlights which product categories (Table, Sofa, Chair, etc.) contribute the most to total revenue.
+6.	Revenue by Store Type: Compares performance between retail and online stores.
+7.	Average Cost by Material: Analyzes cost efficiency by material type (Fabric, Wood, Metal, etc.).
+8.	Delivery Days by Price Category: Measures the delivery time based on product pricing tiers (Low, Medium, High).
+These KPIs were visualized using Power BI to create an interactive dashboard that provides quick insights and supports data-driven decision-making.
